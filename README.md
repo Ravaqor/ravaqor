@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Alex, a student in computer science.
 
 <!--
 **Ravaqor/ravaqor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
